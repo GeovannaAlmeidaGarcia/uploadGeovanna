@@ -1,0 +1,52 @@
+body{
+    margin: 50px;
+    font-size: 17px;
+}
+
+p{
+    color: blueviolet;
+    font-size: 25px;
+    font-weight: bold;
+    font-family: 'Playfair Display', serif;;
+    text-align: center;
+}
+
+a{
+    text-decoration: none;
+}
+
+a:hover{
+    text-decoration: underline;
+}
+h1 {
+    font-family:'Courier New', Courier, monospace;
+}
+
+table{
+    width: 600px;
+   
+}
+
+table thead{
+    background-color: pink;
+}
+table tbody{
+    background-color: rgb(213, 213, 222);
+}
+
+th, td {
+    padding: 10px;
+    text-align: center;
+}
+
+tbody tr:hover {
+    background-color: rgb(101, 171, 201);
+}
+
+tbody td{
+    border-bottom: 3px solid palevioletred;
+}
+
+tbody tr:nth-child(even){
+    background-color:rgb(78, 41, 78) ;
+}

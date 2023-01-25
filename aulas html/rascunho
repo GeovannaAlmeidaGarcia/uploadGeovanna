@@ -1,0 +1,48 @@
+Criar tabelas 
+ <!-- Criar tabelas
+
+        <table width="400" border="0">
+        <thead>
+                <tr>
+                    <th>Item 1 </th>
+                    <th>Item 2</th>
+                </tr>
+        </thead>
+        
+        <tbody>
+            <tr>
+                <td>Leite</td>
+                <td>Bolacha</td>
+            </tr>
+            <tr>
+                <td>Açucar</td>
+                <td>Maisena</td>
+            </tr>
+            <tr>
+                <td>Chocolate</td>
+                <td>Morango</td>
+            </tr>
+
+        </tbody>
+        </table> -->
+
+        Criar lista
+        <!--Lista
+        <ul style="list-style-type:square ;">
+            <li>Café</li>
+            <li>Chá</li>
+            <li>Leite</li>
+        </ul>
+        -->
+    
+        Criar forms
+
+            <!--
+        <form action="login.html" method="get">
+        
+            <input type="text" name="usuario" value="Geovanna"/>
+            
+            <input type="submit" value="Fazer cadastro"/>
+
+        </form>
+        -->
